@@ -1,0 +1,19 @@
+{
+  "name": "fubuki_0",
+  "symbol": "FUB_0",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "2EHXbMcbMsMJuBC9zr96BkLcCccGBZnm57XvdrsejTDo",
+        "share": 100
+      }
+    ]
+  }
+}
